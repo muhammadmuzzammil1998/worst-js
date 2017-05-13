@@ -4,7 +4,7 @@ The worst JavaScript you will ever see. Made with Love. 😊
 # License 😉 
 MIT License
 
-Copyright (c) 2016 Muhammad Muzzammil (http://98.hol.es/)
+Copyright (c) 2016 Muhammad Muzzammil (http://www.muzzammil.xyz/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this script and associated documentation files (the "Script"), to deal
